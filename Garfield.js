@@ -1,13 +1,5 @@
 
-
-// Hi  I m
-// Tharindu Liyanage 
-// I am 16 years old developer...
-// From Sri Lanka
-// I am a Learning.
-// Not more..
-// Also I am Student
-// Follow My Facebook - https://www.facebook.com/TharinduLiyanages
+// Follow My INSTAGRAM - https://instagram.com/1.csms?igshid=OTk0YzhjMDVlZA==
 require('./DataFile')
 require('./Buttons')
 const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('garfield-bot-db')
