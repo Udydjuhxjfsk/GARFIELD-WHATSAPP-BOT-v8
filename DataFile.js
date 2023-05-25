@@ -19,25 +19,18 @@ global.symb = '█' // 👈  Enter Any ▁ ▂ █ ░ ▘ □ ▣
 global.symb2 = '▎ █' // 👈 Enter Any ▬▓▌▎■
 global.symb3 = '▬' // 👈 Enter Any ▅ ▂ ▁ ▊
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
-global.notice = ` *Hi 🥰 I m*
-*Tharindu LIyanage*
-*I am 17 years old developer...*
-*From Sri Lanka 🇱🇰*
-*I am a Learning.*
-*Not more..*
-*Also I am Student*
-*Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
+*Follow My Facebook - https://instagram.com/1.csms?igshid=OTk0YzhjMDVlZA==*`  // 👈 Enter Your details and Social Media Links and Anything
 global.owner =  ['+94711502119'] //👈  Enter Your number
 global.premium =  ['+94711502119'] //👈  Enter Your number
 global.ownernomer = '+94711502119' //👈  Enter Your number
 global.ownername = 'ZENOI' //👈 Enter Your name
-global.botname = 'ＧＡＲＦＩＥＬＤ ＢＯＴ' //👈 Enter Your Bot name
-global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝖦𝖺𝗋𝖿𝗂𝖾𝗅𝖽 𝖡𝗈𝗍' //👈 Enter Your Name
+global.botname = 'COSMOSS THE REAL' //👈 Enter Your Bot name
+global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 cosmoss 𝖡𝗈𝗍' //👈 Enter Your Name
 global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
 global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
 global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
 global.fbt = 'Follw Us ℹ️' // 👈 Enter (Subscribe/Follow/Like now)
-global.myweb = 'https://www.facebook.com/garfieldbots/'// 👈 Enter your Social media link to follow now button
+global.myweb = 'https://instagram.com/1.csms?igshid=OTk0YzhjMDVlZA=='// 👈 Enter your Social media link to follow now button
 global.welcome = '*Welcome To The Group 🦋*' // 👈 You Can change this your choice
 global.bye = '*Bye bye Mother fucker 🐼*' // 👈 You Can change this your choice
 global.packname = 'GARFIELD-BOTv8'  // 👈 You Can change this your choice 
@@ -45,8 +38,8 @@ global.author = 'Xnodes DEVELOPMENT' // 👈 You Can change this your choice
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
-global.thumb =  'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png' 
-global.spoty = 'https://i.postimg.cc/HW2YbN1b/Pics-Art-22-08-09-16-12-14-489.png'
+global.thumb =  'https://i.imgur.com/tUAreSA.jpg' 
+global.spoty = 'https://i.imgur.com/tUAreSA.jpg'
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 global.sp = '⭔'
 global.mess = {
@@ -102,14 +95,14 @@ fs.watchFile(file, () => {
 // New Menu Ui
 /*
 ▬
-▎ Hi  Ｚ Ξ ＮＯＩ 👋 
-▎ ＧＡＲＦＩＥＬＤ ＢＯＴ
+▎ Hi  COSMOSS 👋 
+▎ COSMOS THE REAL
 ▎ █ 𝗦𝗽𝗲𝗲𝗱 : 0.00119 miliseconds
 ▎ █ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : 9 hours, 58 minutes, 23 seconds
-▎ █ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ＧＡＲＦＩＥＬＤ ＢＯＴ 
-▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : ZENOI
-▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : +94711502119
-▎ █ 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ZENOI
+▎ █ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : COSMOSS ＢＯＴ 
+▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : IG 1.CSMS
+▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : +212651135146
+▎ █ 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : IG 1CSMS
 ▎ █ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : linux
 ▎ █ 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : 11
    Ｍｅｎｕ Ｃｏｍｍａｎｄｓ🌀
@@ -123,11 +116,11 @@ fs.watchFile(file, () => {
    *▓  Databasemenu*
    *▓  Gamemenu*
    
-▎ ️ＧＡＲＦＩＥＬＤ ＢＯＴ  Created by ZENOI  🪁
+▎ ️COSMOSS BOT  Created by CSMS  🪁
 ▎ ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝖦Λ𝖱𝖥𝖨Ξ𝖫𝖣 𝖡𝖮Т v8.6 and 
-▎ 𝖭Ξ𝖴𝖱Λ𝖫 ΛＩ v1.00             
+▎ COSMOSS ΛＩ v1.00             
 ⭕►▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-   ▎ ＧＡＲＦＩＥＬＤ ＢＯＴ
+   ▎ COSMOSS ＢＯＴ
    ▁▁▁▁▁▁▁▁▁▁▁▁▁▁
  ▁▁▁▁▁▁▁▁▁▁▁▁▁▁
 ▎ 
